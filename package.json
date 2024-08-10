@@ -1,0 +1,26 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "n"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shweta-Saxena/Node-Js.git"
+  },
+  "keywords": [
+    "tutorial"
+  ],
+  "author": "shweta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shweta-Saxena/Node-Js/issues"
+  },
+  "homepage": "https://github.com/Shweta-Saxena/Node-Js#readme",
+  "dependencies": {
+    "color": "^4.2.3",
+    "lodash": "^4.17.21"
+  }
+}
