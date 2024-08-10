@@ -21,6 +21,7 @@
   "homepage": "https://github.com/Shweta-Saxena/Node-Js#readme",
   "dependencies": {
     "color": "^4.2.3",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "nodemon": "^3.1.4"
   }
 }
