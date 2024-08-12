@@ -24,4 +24,8 @@ app.get("/help",(req,res)=>{
     res.send("<h1>This is Help us page</h1>")
 })
 
+app.get("*",(req,resp)=>{
+    resp.sendFile(`${publicPath}/404.html`)
+})
+
 app.listen(8000);
